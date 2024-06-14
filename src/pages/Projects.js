@@ -28,12 +28,12 @@ const ProjectDescription = styled.p`
 const Projects = () => {
   const projects = [
     {
-      title: 'Project 1',
-      description: 'Description for project 1.',
+      title: 'site pour institut IPM',
+      description: 'Il s\'agit ici d\'un site qui met en avant les atouts de ce centre de formation afin d\'attirer les visiteur à aller ce faire formez la',
     },
     {
-      title: 'Project 2',
-      description: 'Description for project 2.',
+      title: 'FarmShop',
+      description: 'Il s\'agit ici d\'un site de vente d\'animaux de ferme en ligne ',
     },
     // Add more projects here
   ];
